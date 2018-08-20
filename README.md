@@ -7,12 +7,10 @@ EClet by Riddle&Code
        src="https://scan.coverity.com/projects/4781/badge.svg"/>
 </a>
 
-Extended driver for the Cryptotronix EClet containing an Atmel ATECC608A
+Extended driver for the Cryptotronix EClet
 
 Status
 ---
-This is an adoption of the code base originally written for Atmel's ATECC108 to use the extended functionality of the ATECC508A and the ATECC608A.
-
 This software is in ***BETA***. I have tested the below commands, but some there are some features and documentation that I would like to finish. If you use this software, it will configure your ECC108 in a non-reversible way. It will allow you to sign and verify with P256 keys but future features may be incompatible.
 
 Releases
@@ -92,7 +90,7 @@ Once I2C is activated mount the secure element onto the Raspberry Pi board accor
 Hardware
 ---
 
-Riddle&Code built a new hardware secure element based on Atmel's ATECC608A and ATAES132A.
+Riddle&Code built a new hardware secure element.
 
 <img alt="Riddle&Code Secure Element"
        src="https://github.com/RiddleAndCode/EClet/blob/master/doc/IMG_0416.jpg?raw=true"/>
