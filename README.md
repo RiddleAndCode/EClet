@@ -94,6 +94,9 @@ Riddle&Code built a new hardware secure element.
 
 <img alt="Riddle&Code Secure Element"
        src="https://github.com/RiddleAndCode/EClet/blob/master/doc/IMG_0416.jpg?raw=true"/>
+       
+<img alt="Riddle&Code Secure Element"
+       src="https://github.com/RiddleAndCode/EClet/blob/master/doc/SE%20(Pinout).png?raw=true"/>       
 
 It replaces Josh Datko's original hardware.
 
