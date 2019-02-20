@@ -98,6 +98,9 @@ Riddle&Code built a new hardware secure element.
        src="https://github.com/RiddleAndCode/EClet/blob/master/doc/SE%20(Pinout).png?raw=true"/>       
        
 
+<img alt="Riddle&Code Secure Element"
+       src="https://github.com/RiddleAndCode/EClet/blob/master/doc/SE%20(Pinout).png?raw=true"/>  
+
 It replaces Josh Datko's original hardware.
 
 The Hardware folder has an example board layout. This software will also work on the [CryptoCape](https://www.sparkfun.com/products/12773).
